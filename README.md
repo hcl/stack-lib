@@ -1,3 +1,3 @@
 stack-lib
 =========
-A very very simple library written by myself.
+A very very simple library written in C by myself.
